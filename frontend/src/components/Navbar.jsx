@@ -15,7 +15,7 @@ function Navbar() {
 
         <li>
           <a
-            href="https://github.com/tannupriya550/AI-Resume-Analyzer"
+            href="https://github.com/Anuragsaini2004/AI-Resume-Analyzer"
             target="_blank"
             rel="noreferrer"
           >
