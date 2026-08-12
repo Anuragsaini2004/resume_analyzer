@@ -9,8 +9,8 @@ app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://localhost:5173",
-        "https://ai-resume-analyzer-1-wfu9.onrender.com",
+    "http://localhost:5173",
+    "https://resume-analyzer-gz9i.onrender.com",
     ],
     allow_credentials=True,
     allow_methods=["*"],
